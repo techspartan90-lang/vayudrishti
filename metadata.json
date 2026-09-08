@@ -1,0 +1,6 @@
+{
+  "name": "ATMOCONNECT",
+  "description": "Multi-Source Weather Intelligence & Disaster Decision Support Platform — Connect. Verify. Analyse. Prioritise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
